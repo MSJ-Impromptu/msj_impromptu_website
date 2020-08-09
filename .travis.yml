@@ -13,6 +13,6 @@ before_install:
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/msj_impromptu_website ubuntu@msjimpromptu.com:/var/www/html/msjimpromptu_web
+  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/ ubuntu@msjimpromptu.com:/var/www/html/msjimpromptu_web
   on:
     branch: master
