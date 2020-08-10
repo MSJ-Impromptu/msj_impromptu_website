@@ -419,7 +419,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .container {
-  padding-top: 15%;
+  position: absolute;
+  padding-top: 25%;
 }
 
 #hero h1 {
