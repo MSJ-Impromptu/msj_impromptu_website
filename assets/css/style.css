@@ -533,7 +533,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f8fbfe;
+  background-color: #ffffff;
 }
 
 .section-title {
@@ -1225,13 +1225,16 @@ section {
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
+
 .team .member {
   margin-bottom: 20px;
+  
   overflow: hidden;
   text-align: center;
   border-radius: 4px;
   background: #fff;
   box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
+  
 }
 
 .team .member .member-img {
@@ -1918,7 +1921,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #2487ce;
+  background: #ffffff;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1931,7 +1934,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #3194db;
+  background: #ffffff;
   color: #fff;
   text-decoration: none;
 }
