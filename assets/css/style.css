@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   background: #fff;
   z-index: 997;
-  padding: 5px 0;
+  padding: 15px 0;
   border-bottom: 1px solid #e6f2fb;
 }
 
