@@ -419,8 +419,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .container {
-  position: absolute;
-  padding-top: 25%;
+  padding-top: 30%;
 }
 
 #hero h1 {
@@ -649,6 +648,7 @@ section {
 # About Video
 --------------------------------------------------------------*/
 .about-video .content {
+  padding-top: 30%;
   font-size: 15px;
 
 }
