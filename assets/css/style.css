@@ -410,7 +410,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.0);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -533,7 +533,7 @@ section {
 }
 
 .section-bg {
-  background-color: #ffffff;
+  background-color: #d1bb9e;
 }
 
 .section-title {
@@ -1492,7 +1492,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   width: 100%;
-  background: #fff;
+  
 }
 
 .contact .info i {
